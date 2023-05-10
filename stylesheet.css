@@ -92,6 +92,12 @@
         width: 300px;
         margin:  auto;
       }
+      table  {
+        text-align: center;
+      }
+      .kolonne{
+        text-align: center;
+      }
 
 
   
